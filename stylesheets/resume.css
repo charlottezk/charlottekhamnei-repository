@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+html {max-width: 100%;
+	background-color:#333333;
+	background-size: auto;
+	margin: 0 auto;
+}
+.document {
+	width: 612px;
+	height: 792px;
+	background-color: hsl(0,0%,100%);
+	padding: 36px;
+	margin: 0 auto;
+}
+.right {
+	float: right;
+	text-align: right;
+}
+.left {float:left;
+	text-align: left;
+}
+#photo {
+	position: 544.5px, 67.5px;
+	padding: 0 7.547px 0 0;
+}
+img {
+	height: 63px;
+	width: 63px;
+}
